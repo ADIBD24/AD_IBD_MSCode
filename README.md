@@ -1,0 +1,3 @@
+Unraveling Shared Mitochondrial Pathways and Therapeutic Targets in Alzheimer's Disease and Inflammatory Bowel Disease through Integrative Bioinformatics Analysis
+
+Mitochondrial dysfunction is increasingly recognized as a shared feature in Alzheimer's disease (AD) and inflammatory bowel disease (IBD), but the exact mechanism remains unclear. Our study integrated transcriptomic and genetic analyses to uncover mitochondria-related genes involved in the shared mechanisms of these two diseases. By analyzing multiple AD and IBD datasets using differential expression gene (DEG) analyses, biological pathway analyses, and co-expression module construction, we found that hypoxia-induced mitochondrial dysfunction is a common risk factor for AD and IBD.
